@@ -83,3 +83,45 @@
    - [ ] Visualizing the data
 
    **Answer:** Data preparation involves cleaning, transforming, and organizing raw data.
+
+# Module 2 - Generative AI for Data Visualization and Storytelling
+
+1. **Which statistical analysis can be run on any pair of attributes?**
+   - [ ] histplot
+   - [ ] multivariate
+   - [x] bivariate
+   - [ ] univariate
+
+   **Answer:** Bivariate analysis for any pair of attributes.
+
+2. **Which application is a helpful assistant in Tableau that automates repetitive tasks?**
+   - [ ] ChatGPT
+   - [ ] Sisense
+   - [x] Einstein Copilot
+   - [ ] DataSquirrel
+
+   **Answer:** Einstein Copilot is a helpful assistant in Tableau that speeds up creating dashboards by automating repetitive tasks.
+
+3. **Which tool can create graphs and charts with GPT-4 through specialized prompt engineering?** — 0/1
+   - [ ] Sisense
+   - [ ] ThoughtSpot
+   - [ ] DataSquirrel
+   - [x] Akkio
+
+   **Answer:** Correct! Akkio can create graphs and charts with GPT-4 through specialized prompt engineering.
+
+4. **You want to use a storytelling tool that enables you to use conversational prompts to enhance content creation and refine narrative elements, such as titles, headings, bullet points, introductions, and conclusions. Which tool would be most appropriate?**
+   - [ ] DesignerBot
+   - [ ] GoogleSlides
+   - [ ] Akkio's Generative Reports
+   - [x] ChatGPT
+
+   **Answer:** ChatGPT allows you to employ prompts to enhance content creation and refine narrative elements, such as titles, headings, bullet points, introductions, and conclusions.
+
+5. **Which aspect of storytelling helps to give your narrative a clear and consistent structure?**
+   - [ ] Discussions
+   - [ ] Data visualization
+   - [ ] Contextualization
+   - [x] Logical organization
+
+   **Answer:** Logical organization gives your narrative a clear and logical structure.
