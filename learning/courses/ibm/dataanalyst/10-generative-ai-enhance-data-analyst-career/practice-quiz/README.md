@@ -125,3 +125,45 @@
    - [x] Logical organization
 
    **Answer:** Logical organization gives your narrative a clear and logical structure.
+
+# Module 2 - Generative AI Considerations for Data Professionals
+
+1. **What is a key consideration under model considerations?**
+   - [ ] Prevention of malicious activities
+   - [x] Explainability
+   - [ ] Regulatory requirements
+   - [ ] Quality of data
+
+   **Answer:** The choice of generative AI model and training parameters determines the explainability that refers to the model's ability to provide clear insights into its decision-making process.
+
+2. **Which technique can be used to check for biased loan approvals in the finance industry?**
+   - [ ] Anonymize data
+   - [ ] Interpretability
+   - [x] Fairness metrics
+   - [ ] Data augmentation
+
+   **Answer:** Data scientists need to check the data for potential biases by using techniques such as fairness metrics and adversarial training.
+
+3. **Which is a technical challenge using generative AI?**
+   - [ ] Lack of data sharing
+   - [ ] Copyright and IP issues
+   - [x] Lack of standardization
+   - [ ] Risk aversion
+
+   **Answer:** Lack of standardization and tools is a technical challenge when using generative AI in multiple industries.
+
+4. **What causes AI hallucinations?**
+   - [ ] Lack of expertise
+   - [ ] Model complexity
+   - [ ] Biases
+   - [x] Flawed training data
+
+   **Answer:** This term refers to the generation of inaccurate or illogical information by generative AI models due to flawed training data.
+
+5. **If you manipulate public opinion while using generative AI, which type of consideration is violated?**
+   - [ ] Model
+   - [ ] Data
+   - [x] Ethical
+   - [ ] Technical
+
+   **Answer:** Manipulating public opinion is a malicious practice and is against ethical guidelines of generative AI usage.

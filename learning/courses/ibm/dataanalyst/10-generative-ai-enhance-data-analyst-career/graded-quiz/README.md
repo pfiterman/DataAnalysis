@@ -81,3 +81,85 @@
     - [ ] Analyzing customer behavior and purchase patterns to provide relevant responses to customer queries
 
     **Answer:** Q&A for data involves utilizing machine learning and natural language processing algorithms to interpret queries and provide accurate responses.
+
+## Module 2 - Use of Generative AI for Data Analytics
+
+1. **We can use generative AI tools to create Python code that will perform various operations to draw insights from a given data. Which function in the code can you use to generate statistical information about the data?**
+   - [ ] `print()`
+   - [ ] `read()`
+   - [x] `describe()`
+   - [ ] `info()`
+
+   **Answer:** Python code uses the pandas library to generate statistical descriptions of data using the Describe function.
+
+2. **Which statistical analysis can be run on any selected attribute?**
+   - [ ] multivariate
+   - [ ] histplot
+   - [x] univariate
+   - [ ] bivariate
+
+   **Answer:** The univariate analysis is run on any selected attribute.
+
+3. **Which feature of ChatGPT is used in dashboard creation?**
+   - [ ] Enables intelligent recommendations for dashboard design
+   - [ ] Automates repetitive tasks
+   - [x] Provides natural language interaction
+   - [ ] Generates visual representation of data
+
+   **Answer:** ChatGPT's natural-language capability can be used when creating dashboards by allowing users to describe what they want in plain language, such as requesting specific charts, filters, or dashboard components.
+
+4. **Which tool automatically cleans the inconsistencies, and offers auto-analysis and customizable dashboards with GDPR/PDPA-compliant features?**
+   - [ ] Dash
+   - [ ] Sisense
+   - [x] DataSquirrel
+   - [ ] ChatGPT
+
+   **Answer:** DataSquirrel automatically cleans the inconsistencies, and offers auto-analysis and customizable dashboards. Its GDPR/PDPA-compliant features enable secure data processing, anonymization, and easy collaboration.
+
+5. **Which storytelling tool converts text-based documents, PDFs, or URLs into slides?**
+   - [ ] ChatGPT
+   - [ ] Bard
+   - [x] DesignerBot
+   - [ ] Akkio's Generative Reports
+
+   **Answer:** DesignerBot can convert text-based documents, PDFs, or URLs into slides.
+
+6. **Which aspect of storytelling helps to explain the relevance of data to the goals?**
+   - [ ] Logical organization
+   - [x] Contextualization
+   - [ ] Data visualization
+   - [ ] Discussions
+
+   **Answer:** Contextualization includes providing a context for the data to explain its relevance to the goals.
+
+7. **Which ethical technique should data scientists use to check the data for potential biases in the finance industry?**
+   - [x] Fairness metrics
+   - [ ] Encryption
+   - [ ] Optimization
+   - [ ] Interpretability
+
+   **Answer:** Data scientists need to check the data for potential biases by using techniques such as fairness metrics and adversarial training.
+
+8. **In the retail industry, customer purchase history, product specifications, and market trends come under which Generative AI consideration?**
+   - [x] Data consideration
+   - [ ] Ethical consideration
+   - [ ] Model consideration
+   - [ ] Logical consideration
+
+   **Answer:** In the retail industry, data considerations include customer purchase history, product specifications, market trends, and social media interactions.
+
+9. **Generative AI models may generate inaccurate or illogical information. What is this challenge called?**
+   - [ ] Interpretability
+   - [x] AI hallucination
+   - [ ] Explainability
+   - [ ] AI bias
+
+   **Answer:** It is caused by using flawed training data, inappropriate model architectures, and inadequate evaluation methods.
+
+10. **Training and running generative AI models can be computationally expensive, requiring specialized hardware and software infrastructure. Under which category does this challenge come?**
+    - [x] Technical challenge
+    - [ ] Ethical challenge
+    - [ ] Organizational challenge
+    - [ ] Cultural challenge
+
+    **Answer:** This technical challenge can pose a significant barrier for organizations with limited resources or those operating in cloud environments.
