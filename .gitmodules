@@ -1,0 +1,3 @@
+[submodule "projects/ibm-analytics-attrition-eda"]
+	path = projects/ibm-analytics-attrition-eda
+	url = https://github.com/pfiterman/ibm-analytics-attrition-eda.git
